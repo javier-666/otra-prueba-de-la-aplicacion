@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Gestión de Almacén otra version",
+  "description": "Una aplicación web moderna para gestionar el inventario de productos. Permite a los usuarios agregar, ver, editar, eliminar y buscar productos. También incluye estadísticas del tablero y una función impulsada por IA para generar descripciones de productos.",
+  "requestFramePermissions": []
+}
