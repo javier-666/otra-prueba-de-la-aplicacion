@@ -1,9 +1,1 @@
-
-export interface Product {
-  id: string;
-  name: string;
-  category: string;
-  quantity: number;
-  price: number;
-  description: string;
-}
+// Este archivo ha sido reemplazado por types.js y se deja en blanco para evitar conflictos.
